@@ -1,8 +1,8 @@
-Name:
+Name:Michael Menlikalew
 
-Compilation and Run Successful:
+Compilation and Run Successful:Yes
 
-Unit Test Run Successfully:
+Unit Test Run Successfully:Yes
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
